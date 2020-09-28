@@ -1,0 +1,9 @@
+How it works is as follows:
+
+
+1. I visit any website.\
+2. The extension will check to see if the image link is available.\
+3. It will create a canvas the same size as the image.\
+4. Convert the image into a base64 form.\
+5. Send it to another tool on server\
+6. Wait for the results and put in the box\
